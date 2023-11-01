@@ -1,0 +1,17 @@
+{
+  "custom": [
+    {
+      "filename" : "composer.json",
+      "path" : "@core"
+    },
+    {
+      "filename" : "composer.lock",
+      "path" : "@core"
+    },
+    {
+      "filename" : "package.json",
+      "path" : "@core"
+    }
+  ],
+  "version": "3.4.1"
+}
